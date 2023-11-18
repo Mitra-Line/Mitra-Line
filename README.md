@@ -1,4 +1,4 @@
-Situs Mitra Line https://www.mitraline.id
+Situs: https://www.mitraline.id
 
 <!---
 Mitra-Line/Mitra-Line is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
