@@ -1,4 +1,4 @@
-<h1> Toko Baju Online </h1>
+
 
 <center><img src="https://mitraline.id/wp-content/uploads/2023/03/wp-1678014670471-e1690974235191.jpg"width="70" height="70"alt="Toko Baju Online"></center>
 
@@ -60,7 +60,7 @@
   Mitra Line memastikan pengalaman belanja yang praktis dan memuaskan setiap berbelanja. Kemudian menjadikan setiap kunjungan di toko baju online ini sebagai langkah mudah untuk tampil lebih baik setiap hari.
   <p></p>
 <footer> 
-  <center></ center> <p><b>By Mitra Line &copy; 2024<b><p>
+  <center><p><b>By Mitra Line &copy; 2024<b><p></ center>
 </footer> 
 </body>
   </html>
