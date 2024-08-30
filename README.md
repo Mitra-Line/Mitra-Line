@@ -60,7 +60,7 @@
   Mitra Line memastikan pengalaman belanja yang praktis dan memuaskan setiap berbelanja. Kemudian menjadikan setiap kunjungan di toko baju online ini sebagai langkah mudah untuk tampil lebih baik setiap hari.
   <p></p>
 <footer> 
-  <center><p><b>By Mitra Line &copy; 2024<b><p></ center>
+  <center><p><b>By Mitra Line &copy; 2024<b><p></center>
 </footer> 
 </body>
   </html>
