@@ -59,6 +59,8 @@
   <p></p>
   Mitra Line memastikan pengalaman belanja yang praktis dan memuaskan setiap berbelanja. Kemudian menjadikan setiap kunjungan di toko baju online ini sebagai langkah mudah untuk tampil lebih baik setiap hari.
   <p></p>
+Kunjungi: <a href="https://groups.google.com/u/2/g/mitra-line" rel="dofollow">Mitra Line Group</a>
+  <p></p>
 <footer> 
   <center><b>By Mitra Line &copy; 2024<b></center>
 </footer> 
